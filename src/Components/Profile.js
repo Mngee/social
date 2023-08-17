@@ -8,7 +8,7 @@ const Profile = () => {
                     src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6bhznzmqn77LPBLowr3_kRG678s4C-0TEw&usqp=CAU'/>
             </div>
             <div>
-                ava+description
+                peredelka 1
             </div>
             <div>
                 <img
