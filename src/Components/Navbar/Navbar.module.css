@@ -1,0 +1,10 @@
+.nav {
+    grid-area: n;
+    background-color: aquamarine;
+}
+.item a {
+    color: red;
+}
+.item a:focus {
+    color: gold;
+}
