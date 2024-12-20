@@ -1,0 +1,24 @@
+.app-wrapper-content{
+
+}
+.dialogs_item{
+padding: 10px;
+}
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+.dialog{
+
+}
+.dialog img{
+    width: 40px ;
+    ;
+}
+.messages{
+padding: 10px;
+}
+.message{
+
+}
